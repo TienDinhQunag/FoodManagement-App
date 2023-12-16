@@ -1,6 +1,6 @@
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4\DTO\bin\Debug\DTO.dll
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4\DTO\bin\Debug\DTO.pdb
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4\DTO\obj\Debug\DTO.dll
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4\DTO\obj\Debug\DTO.pdb
+C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\DTO\bin\Debug\DTO.dll
+C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\DTO\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\DTO\obj\Debug\DTO.dll
+C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\DTO\obj\Debug\DTO.pdb
