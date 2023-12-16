@@ -46,52 +46,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Add.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Add.Designer.cs">
-      <DependentUpon>Add.cs</DependentUpon>
-    </Compile>
-    <Compile Include="DishDetail.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="DishDetail.Designer.cs">
-      <DependentUpon>DishDetail.cs</DependentUpon>
-    </Compile>
     <Compile Include="form báo cáo.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="form báo cáo.Designer.cs">
       <DependentUpon>form báo cáo.cs</DependentUpon>
     </Compile>
-    <Compile Include="MenuDetail.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MenuDetail.Designer.cs">
-      <DependentUpon>MenuDetail.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MenuList.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MenuList.Designer.cs">
-      <DependentUpon>MenuList.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Add.resx">
-      <DependentUpon>Add.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="DishDetail.resx">
-      <DependentUpon>DishDetail.cs</DependentUpon>
-    </EmbeddedResource>
+    <Compile Include="qldh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="qldh.Designer.cs">
+      <DependentUpon>qldh.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="form báo cáo.resx">
       <DependentUpon>form báo cáo.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MenuDetail.resx">
-      <DependentUpon>MenuDetail.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MenuList.resx">
-      <DependentUpon>MenuList.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -102,6 +72,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="qldh.resx">
+      <DependentUpon>qldh.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

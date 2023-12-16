@@ -16,7 +16,7 @@ namespace Quanlymonan1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new DishMenu());
+            Application.Run(new qldh());
         }
     }
 }

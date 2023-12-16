@@ -1,22 +1,11 @@
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4\BUS\bin\Debug\BUS.dll
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4\BUS\bin\Debug\BUS.pdb
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4\BUS\bin\Debug\DAL.dll
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4\BUS\bin\Debug\DTO.dll
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4\BUS\bin\Debug\DAL.pdb
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4\BUS\bin\Debug\DTO.pdb
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4\BUS\obj\Debug\BUS.csproj.CopyComplete
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4\BUS\obj\Debug\BUS.dll
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4\BUS\obj\Debug\BUS.pdb
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4 - Copy\BUS\bin\Debug\BUS.dll
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4 - Copy\BUS\bin\Debug\BUS.pdb
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4 - Copy\BUS\bin\Debug\DAL.dll
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4 - Copy\BUS\bin\Debug\DTO.dll
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4 - Copy\BUS\bin\Debug\DAL.pdb
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4 - Copy\BUS\bin\Debug\DTO.pdb
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4 - Copy\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4 - Copy\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4 - Copy\BUS\obj\Debug\BUS.csproj.CopyComplete
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4 - Copy\BUS\obj\Debug\BUS.dll
-C:\Users\dinhq\Desktop\UEH\Phat trien ung dung desktop\Quanlymonan4 - Copy\BUS\obj\Debug\BUS.pdb
+C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\BUS\bin\Debug\BUS.dll
+C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\BUS\bin\Debug\BUS.pdb
+C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\BUS\bin\Debug\DAL.dll
+C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\BUS\bin\Debug\DTO.dll
+C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\BUS\bin\Debug\DAL.pdb
+C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\BUS\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\BUS\obj\Debug\BUS.dll
+C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\BUS\obj\Debug\BUS.pdb
