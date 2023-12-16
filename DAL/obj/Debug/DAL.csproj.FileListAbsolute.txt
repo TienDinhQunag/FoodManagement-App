@@ -1,9 +1,0 @@
-C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\DAL\bin\Debug\DAL.dll
-C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\DAL\bin\Debug\DAL.pdb
-C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\DAL\bin\Debug\DTO.dll
-C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\DAL\bin\Debug\DTO.pdb
-C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
-C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\DAL\obj\Debug\DAL.csproj.CopyComplete
-C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\DAL\obj\Debug\DAL.dll
-C:\Users\ADMIN\Downloads\Quanlymonan2-20231216T021221Z-001\Quanlymonan2\DAL\obj\Debug\DAL.pdb
