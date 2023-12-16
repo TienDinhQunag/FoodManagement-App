@@ -69,6 +69,38 @@ namespace BUS
         }
 
 
+        public void AddNewMenu(MenuDTO newMenu)
+        {
+            // Gọi phương thức thêm menu mới từ DALMonAn
+            dalMenu.InsertNewMenu(newMenu);
+        }
+   
+        public bool DeleteMenu(int menuId)
+        {
+            // Check if the menu exists before attempting to delete
+            if (DoesMenuExist(menuId))
+            {
+                // Call the corresponding method in DALMonan to delete the menu
+                dalMonan.DeleteMenu(menuId);
+                return true;
+            }
+            else
+            {
+                return false; // Menu does not exist
+            }
+        }
+
+        public bool DoesMenuExist(int menuId)
+        {
+       
+            return dalMonan.DoesMenuExist(menuId);
+        }
+
+
+
+
+
+
 
 
 

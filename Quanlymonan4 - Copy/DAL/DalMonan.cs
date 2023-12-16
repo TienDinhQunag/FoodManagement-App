@@ -322,6 +322,69 @@ namespace DAL
 
 
         }
+        public void InsertNewMenu(MenuDTO newMenu)
+        {
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                connection.Open();
+
+                string query = @"INSERT INTO Menu (TenMenu, Ngaycapnhat) 
+                 VALUES (@TenMenu, @Ngaycapnhat)";
+
+                using (SqlCommand command = new SqlCommand(query, connection))
+                {
+                    command.Parameters.AddWithValue("@TenMenu", newMenu.TenMenu);
+                    command.Parameters.AddWithValue("@Ngaycapnhat", newMenu.Ngaycapnhat);
+
+                    command.ExecuteNonQuery();
+                }
+            }
+        }
+        public void DeleteMenu(int menuId)
+        {
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                connection.Open();
+
+                // Xóa dữ liệu từ bảng chitietmenu
+                string deleteChitietmenuQuery = "DELETE FROM chitietmenu WHERE IDMenu = @IDMenu";
+                using (SqlCommand cmd = new SqlCommand(deleteChitietmenuQuery, connection))
+                {
+                    cmd.Parameters.AddWithValue("@IDMenu", menuId);
+                    cmd.ExecuteNonQuery();
+                }
+
+                // Xóa dữ liệu từ bảng menu
+                string deleteMenuQuery = "DELETE FROM menu WHERE IDMenu = @IDMenu";
+                using (SqlCommand cmd = new SqlCommand(deleteMenuQuery, connection))
+                {
+                    cmd.Parameters.AddWithValue("@IDMenu", menuId);
+                    cmd.ExecuteNonQuery();
+                }
+            }
+        }
+
+        // Kiểm tra xem menu có tồn tại không
+        public bool DoesMenuExist(int menuId)
+        {
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                connection.Open();
+
+                string query = "SELECT COUNT(*) FROM Menu WHERE IDMenu = @MenuId";
+                using (SqlCommand command = new SqlCommand(query, connection))
+                {
+                    command.Parameters.AddWithValue("@MenuId", menuId);
+
+                    int count = Convert.ToInt32(command.ExecuteScalar());
+
+                    return count > 0;
+                }
+            }
+        }
+
+
+
 
 
 
